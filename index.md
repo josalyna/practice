@@ -1,2 +1,2 @@
-Title: Projects
+title: Projects
 
